@@ -1,1 +1,1 @@
-window._CCSettings={platform:"web-mobile",groupList:["point","handImpactPoint"],collisionMatrix:[[false,true],[true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/game.fire",orientation:"portrait",jsList:[]};
+window._CCSettings={platform:"web-mobile",groupList:["point","handImpactPoint"],collisionMatrix:[[false,true],[true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/game.fire",orientation:"",jsList:[]};
